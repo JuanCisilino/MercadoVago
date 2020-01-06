@@ -1,8 +1,10 @@
-package com.frost.mercadovago;
+package com.frost.mercadovago.view;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.frost.mercadovago.R;
 
 public class MainActivity extends AppCompatActivity {
 
